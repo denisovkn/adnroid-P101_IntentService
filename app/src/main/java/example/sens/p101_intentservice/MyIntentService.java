@@ -48,8 +48,7 @@ public class MyIntentService extends IntentService {
         }
         Log.d(LOG_TAG, "onHandleIntent end " + label);
 
-
-
+//lk
     }
 
 
