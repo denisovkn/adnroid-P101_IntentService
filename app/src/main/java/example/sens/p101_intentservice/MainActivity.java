@@ -27,6 +27,8 @@ public class MainActivity extends ActionBarActivity {
 
         /* NOP */
 
+       ///gh
+
         startService(new Intent(this, MyIntentService.class)
                 .putExtra("time", 1)
                 .putExtra("label", "Call 2"));
