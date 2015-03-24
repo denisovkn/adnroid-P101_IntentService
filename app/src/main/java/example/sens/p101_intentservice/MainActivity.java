@@ -38,5 +38,9 @@ public class MainActivity extends ActionBarActivity {
                 .putExtra("label", "Call 3"));
     }
 
+<<<<<<< HEAD
     //master
+=======
+    //checkout  nnn
+>>>>>>> mn
 }
